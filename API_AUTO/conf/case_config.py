@@ -1,4 +1,0 @@
-[MODE]
-mode={"login":"all",
-      }
-
